@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657899280351",
+    "project_id": "musikapp-9edaf",
+    "storage_bucket": "musikapp-9edaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657899280351:android:9c25b27e43aa0e0fa1166a",
+        "android_client_info": {
+          "package_name": "com.example.musikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657899280351-ceo7uoa3k6uk9mnsft48c0l66dt18fjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrDReq7w070bktkEe3dhGQSXyQu9Wxj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657899280351-ceo7uoa3k6uk9mnsft48c0l66dt18fjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
